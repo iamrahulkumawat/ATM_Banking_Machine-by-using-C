@@ -2,9 +2,9 @@
 
 
 
-**********Welcome to ATM Banking***********
+<h1>**********Welcome to ATM Banking***********</h1>
 
-****Please choose one of the options below****
+<h1>****Please choose one of the options below****</h1><br>
 < 1 >  Check Balance
 < 2 >  Deposit
 < 3 >  Withdraw
