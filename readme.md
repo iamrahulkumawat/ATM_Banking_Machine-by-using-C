@@ -84,9 +84,9 @@ Would you like to do another transaction:
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 Your Selection:	4
---------------Take your receipt!!!------------------
------Thank you for using ATM Banking Machine!!!-----
------Developed by Rahul kumawat!!!-----
------Instagram:- @heyitsrahulkumawat-----
-Program ended with exit code: 0
+<p>--------------Take your receipt!!!------------------<br>
+-----Thank you for using ATM Banking Machine!!!-----<br><br><br>
+-----Developed by Rahul kumawat!!!-----<br><br>
+-----Instagram:- @heyitsrahulkumawat-----<br>
+</p>
 
